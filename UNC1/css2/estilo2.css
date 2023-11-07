@@ -53,7 +53,7 @@ body{
     font-size: 3rem;
   }
   
-  /* Links */
+  
   .footer-links {
     background: #2f3640;
     color: #616161;
@@ -87,7 +87,7 @@ body{
     padding-bottom: 20px;
   }
   
-  /* Mobil */
+  
   @media (max-width: 700px) {
     .menu-btn {
       display: block;
